@@ -5,5 +5,10 @@ Adding security to my text file
 adding more content to develop
 
 asdasadsadsd
+feature/user-auth
+
+
+User Authentication: Ensures only registered users can access the tracker.
+
 
 
